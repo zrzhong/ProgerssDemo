@@ -4,5 +4,6 @@
         <attr name="srcBitmap" format="reference" />
         <attr name="colorBitmap" format="color" />
         <attr name="colorBitmapWidth" format="reference|dimension" />
+        <attr name="openRandomColor" format="boolean" />
     </declare-styleable>
 </resources>
